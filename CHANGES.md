@@ -6,6 +6,7 @@ Features ✨:
 
 Improvements 🙌:
  - Add "show password" in import Megolm keys dialog
+ - Allow using an outdated homeserver, at user's risk (#1972)
 
 Bugfix 🐛:
  - Long message cannot be sent/takes infinite time & blocks other messages #1397
