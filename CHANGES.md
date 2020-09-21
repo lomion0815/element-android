@@ -6,6 +6,7 @@ Features ✨:
 
 Improvements 🙌:
  - Add "show password" in import Megolm keys dialog
+ - Restore small logo on login screens and fix scrolling issue on those screens
 
 Bugfix 🐛:
  - Long message cannot be sent/takes infinite time & blocks other messages #1397
