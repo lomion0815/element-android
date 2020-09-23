@@ -14,6 +14,7 @@ Bugfix 🐛:
  - Manual import of Megolm keys does back up the imported keys
  - Auto scrolling to the latest message when sending (#2094)
  - Fix incorrect permission check when creating widgets (#2137)
+ - Simplifies draft management and should fix bunch of draft issues (#952, #683)
 
 Translations 🗣:
  -
